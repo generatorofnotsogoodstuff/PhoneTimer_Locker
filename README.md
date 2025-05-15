@@ -10,3 +10,5 @@ Use it however you want.
 
 
 ![Screenshot_2025-05-15-18-09-18-665_com boredharisk phonetimerlocker](https://github.com/user-attachments/assets/7df07416-23ef-4732-9a0d-34543f4255b5)
+
+Download generated debug .apk file for direct installation: https://drive.google.com/file/d/1lwcuZ1WBAkzB7_SBfrLuBdOWPDLRN51U/view?usp=drive_link
