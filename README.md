@@ -8,4 +8,5 @@ Nothing fancy or complex, but I couldn't find what I wanted anywhere else; most 
 
 Use it however you want.
 
-![Screenshot_2025-05-15-18-09-18-665_com boredharisk phonetimerlocker](https://github.com/user-attachments/assets/0d9bd00c-14cb-45c0-bd3e-5b32af316111)
+
+![Screenshot_2025-05-15-18-09-18-665_com boredharisk phonetimerlocker](https://github.com/user-attachments/assets/7df07416-23ef-4732-9a0d-34543f4255b5)
